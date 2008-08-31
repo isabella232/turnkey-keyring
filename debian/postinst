@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# add the key to apt keyring
+apt-key add /usr/share/keyrings/turnkey-release-keyring.gpg
+
