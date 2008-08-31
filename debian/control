@@ -8,5 +8,6 @@ Standards-Version: 3.6.1
 Package: turnkey-keyring
 Architecture: all
 Depends: gnupg
+Recommends: apt
 Section: misc
 Description: Turnkey Linux Release Keyring
