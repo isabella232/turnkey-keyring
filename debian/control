@@ -1,0 +1,12 @@
+Source: turnkey-keyring
+Section: misc
+Priority: optional
+Maintainer: Alon Swartz <alon@turnkeylinux.com>
+Build-Depends: debhelper (>> 4.2.0)
+Standards-Version: 3.6.1
+
+Package: turnkey-keyring
+Architecture: all
+Depends: gnupg
+Section: misc
+Description: Turnkey Linux Release Keyring
