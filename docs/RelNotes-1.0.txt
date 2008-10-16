@@ -1,0 +1,7 @@
+==================
+v1.0 Release Notes
+==================
+
+Drops Turnkey Linux Release keyring into /usr/share/keyrings
+The keyring will be added to the apt keyring if apt-key is available.
+
